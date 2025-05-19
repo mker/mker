@@ -12,7 +12,7 @@
 
 
 ## Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mker&date_format=j%20M%5B%20Y%5D&starting_year=2020)](https://git.io/streak-stats)
 
 
 ### Contact me:
